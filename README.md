@@ -3,7 +3,7 @@
 
 #### Name : Kishor kumar B
 #### Reg.No : 212223240072
-#### Date : 26/08/2026
+#### Date : 30/08/2026
 
 This project implements the coin-flipping **Expectation–Maximization (EM)** example demonstrated in the supplied video. It estimates the probability of heads for two coins when the identity of the coin used in each experiment is unknown.
 
